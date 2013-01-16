@@ -4009,3 +4009,1331 @@
 2012-12-28 08:34:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2012-12-28 08:39:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2012-12-28 12:25:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 13:59:26 [INFO] Starting minecraft server version 1.4.5
+2012-12-28 13:59:26 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-28 13:59:26 [INFO] Loading properties
+2012-12-28 13:59:26 [INFO] Default game type: SURVIVAL
+2012-12-28 13:59:26 [INFO] Generating keypair
+2012-12-28 13:59:28 [INFO] Starting Minecraft server on *:42801
+2012-12-28 13:59:29 [INFO] Preparing level "world"
+2012-12-28 13:59:30 [INFO] Preparing start region for level 0
+2012-12-28 13:59:31 [INFO] Preparing spawn area: 13%
+2012-12-28 13:59:32 [INFO] Preparing spawn area: 37%
+2012-12-28 13:59:33 [INFO] Preparing spawn area: 74%
+2012-12-28 13:59:33 [INFO] Done (4.066s)! For help, type "help" or "?"
+2012-12-28 13:59:48 [INFO] commontypo[/10.29.231.78:17766] logged in with entity id 595 at (178.27156143825363, 14.64397475258446, -279.903245700212)
+2012-12-28 13:59:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 14:00:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 14:00:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 14:04:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 14:08:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 14:22:20 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-28 14:36:31 [INFO] Stopping server
+2012-12-28 14:36:37 [INFO] Starting minecraft server version 1.4.5
+2012-12-28 14:36:37 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-28 14:36:37 [INFO] Loading properties
+2012-12-28 14:36:37 [INFO] Default game type: SURVIVAL
+2012-12-28 14:36:37 [INFO] Generating keypair
+2012-12-28 14:36:38 [INFO] Starting Minecraft server on *:42801
+2012-12-28 14:36:38 [INFO] Preparing level "world"
+2012-12-28 14:36:38 [INFO] Preparing start region for level 0
+2012-12-28 14:36:39 [INFO] Preparing spawn area: 23%
+2012-12-28 14:36:40 [INFO] Preparing spawn area: 78%
+2012-12-28 14:36:41 [INFO] Done (2.964s)! For help, type "help" or "?"
+2012-12-28 14:45:32 [INFO] commontypo[/10.102.73.105:19196] logged in with entity id 598 at (184.74669104054695, 28.552866131632005, -291.2128457376921)
+2012-12-28 14:45:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 14:47:18 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-28 16:07:17 [INFO] Stopping server
+2012-12-28 16:07:17 [INFO] Saving players
+2012-12-28 16:07:17 [INFO] Saving worlds
+2012-12-28 16:07:17 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-28 16:11:02 [INFO] Starting minecraft server version 1.4.6
+2012-12-28 16:11:02 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-28 16:11:02 [INFO] Loading properties
+2012-12-28 16:11:02 [INFO] Default game type: SURVIVAL
+2012-12-28 16:11:02 [INFO] Generating keypair
+2012-12-28 16:11:04 [INFO] Starting Minecraft server on *:42801
+2012-12-28 16:11:04 [INFO] Preparing level "world"
+2012-12-28 16:11:05 [INFO] Preparing start region for level 0
+2012-12-28 16:11:06 [INFO] Preparing spawn area: 3%
+2012-12-28 16:11:07 [INFO] Preparing spawn area: 31%
+2012-12-28 16:11:08 [INFO] Preparing spawn area: 76%
+2012-12-28 16:11:09 [INFO] Done (4.477s)! For help, type "help" or "?"
+2012-12-28 16:11:09 [INFO] /10.253.178.14:21648 lost connection
+2012-12-28 16:11:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 16:13:06 [INFO] Starting minecraft server version 1.4.6
+2012-12-28 16:13:06 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-28 16:13:06 [INFO] Loading properties
+2012-12-28 16:13:06 [INFO] Default game type: SURVIVAL
+2012-12-28 16:13:06 [INFO] Generating keypair
+2012-12-28 16:13:08 [INFO] Starting Minecraft server on *:42012
+2012-12-28 16:13:08 [INFO] Preparing level "world"
+2012-12-28 16:13:09 [INFO] Preparing start region for level 0
+2012-12-28 16:13:10 [INFO] Preparing spawn area: 2%
+2012-12-28 16:13:11 [INFO] Preparing spawn area: 6%
+2012-12-28 16:13:12 [INFO] Preparing spawn area: 17%
+2012-12-28 16:13:13 [INFO] Preparing spawn area: 48%
+2012-12-28 16:13:14 [INFO] Preparing spawn area: 80%
+2012-12-28 16:13:15 [INFO] Preparing spawn area: 95%
+2012-12-28 16:13:15 [INFO] Done (6.928s)! For help, type "help" or "?"
+2012-12-28 16:13:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 16:13:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 16:14:15 [INFO] --- Showing help page 1 of 5 (/help <page>) ---
+2012-12-28 16:14:15 [INFO] /ban <name> [reason ...]
+2012-12-28 16:14:15 [INFO] /ban-ip <address|name> [reason ...]
+2012-12-28 16:14:15 [INFO] /banlist [ips|players]
+2012-12-28 16:14:15 [INFO] /clear <player> [item] [data]
+2012-12-28 16:14:15 [INFO] /debug
+2012-12-28 16:14:15 [INFO] /defaultgamemode <mode>
+2012-12-28 16:14:15 [INFO] /deop <player>
+2012-12-28 16:15:25 [INFO] Stopping server
+2012-12-28 16:15:25 [INFO] Saving players
+2012-12-28 16:15:25 [INFO] Saving worlds
+2012-12-28 16:15:25 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-28 16:16:07 [INFO] Starting minecraft server version 1.4.6
+2012-12-28 16:16:07 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-28 16:16:07 [INFO] Loading properties
+2012-12-28 16:16:07 [INFO] Default game type: SURVIVAL
+2012-12-28 16:16:07 [INFO] Generating keypair
+2012-12-28 16:16:09 [INFO] Starting Minecraft server on *:42012
+2012-12-28 16:16:09 [INFO] Preparing level "world"
+2012-12-28 16:16:09 [INFO] Preparing start region for level 0
+2012-12-28 16:16:10 [INFO] Preparing spawn area: 14%
+2012-12-28 16:16:11 [INFO] Preparing spawn area: 54%
+2012-12-28 16:16:12 [INFO] Preparing spawn area: 92%
+2012-12-28 16:16:12 [INFO] Done (3.447s)! For help, type "help" or "?"
+2012-12-28 16:16:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 16:19:31 [INFO] Starting minecraft server version 1.4.6
+2012-12-28 16:19:31 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-28 16:19:31 [INFO] Loading properties
+2012-12-28 16:19:31 [INFO] Default game type: SURVIVAL
+2012-12-28 16:19:31 [INFO] Generating keypair
+2012-12-28 16:19:33 [INFO] Starting Minecraft server on *:42801
+2012-12-28 16:19:33 [INFO] Preparing level "world"
+2012-12-28 16:19:33 [INFO] Preparing start region for level 0
+2012-12-28 16:19:35 [INFO] Preparing spawn area: 13%
+2012-12-28 16:19:36 [INFO] Preparing spawn area: 72%
+2012-12-28 16:19:37 [INFO] Preparing spawn area: 88%
+2012-12-28 16:19:37 [INFO] Done (3.897s)! For help, type "help" or "?"
+2012-12-28 16:19:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 16:19:43 [INFO] commontypo[/10.253.178.14:21829] logged in with entity id 552 at (184.74669104054695, 28.552866131632005, -291.2128457376921)
+2012-12-28 16:20:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 16:23:49 [INFO] commontypo lost connection: disconnect.genericReason
+2012-12-28 16:24:05 [INFO] commontypo[/10.29.231.78:21909] logged in with entity id 3594 at (177.90785290235314, 85.47975085296675, -257.5286382946959)
+2012-12-28 16:24:06 [INFO] commontypo lost connection: disconnect.genericReason
+2012-12-28 16:24:40 [INFO] Starting minecraft server version 1.4.6
+2012-12-28 16:24:40 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-28 16:24:40 [INFO] Loading properties
+2012-12-28 16:24:40 [INFO] Default game type: SURVIVAL
+2012-12-28 16:24:40 [INFO] Generating keypair
+2012-12-28 16:24:41 [INFO] Starting Minecraft server on *:42801
+2012-12-28 16:24:41 [INFO] Preparing level "world"
+2012-12-28 16:24:42 [INFO] Preparing start region for level 0
+2012-12-28 16:24:43 [INFO] Preparing spawn area: 13%
+2012-12-28 16:24:44 [INFO] Preparing spawn area: 46%
+2012-12-28 16:24:45 [INFO] Preparing spawn area: 79%
+2012-12-28 16:24:46 [INFO] Done (4.329s)! For help, type "help" or "?"
+2012-12-28 16:24:50 [INFO] commontypo[/10.29.231.78:21922] logged in with entity id 552 at (177.90785290235314, 85.47975085296675, -257.5286382946959)
+2012-12-28 16:24:52 [INFO] commontypo lost connection: disconnect.genericReason
+2012-12-28 16:24:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 16:26:27 [INFO] Starting minecraft server version 1.4.5
+2012-12-28 16:26:27 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-28 16:26:27 [INFO] Loading properties
+2012-12-28 16:26:27 [INFO] Default game type: SURVIVAL
+2012-12-28 16:26:27 [INFO] Generating keypair
+2012-12-28 16:26:29 [INFO] Starting Minecraft server on *:42801
+2012-12-28 16:26:29 [INFO] Preparing level "world"
+2012-12-28 16:26:30 [INFO] Preparing start region for level 0
+2012-12-28 16:26:31 [INFO] Preparing spawn area: 43%
+2012-12-28 16:26:32 [INFO] Done (2.741s)! For help, type "help" or "?"
+2012-12-28 16:26:39 [INFO] Unknown command. Try /help for a list of commands.
+2012-12-28 16:26:43 [INFO] Unknown command. Try /help for a list of commands.
+2012-12-28 16:27:47 [INFO] Starting minecraft server version 1.4.5
+2012-12-28 16:27:47 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-12-28 16:27:47 [INFO] Loading properties
+2012-12-28 16:27:47 [INFO] Default game type: SURVIVAL
+2012-12-28 16:27:47 [INFO] Generating keypair
+2012-12-28 16:27:48 [INFO] Starting Minecraft server on *:42801
+2012-12-28 16:27:49 [INFO] Preparing level "world"
+2012-12-28 16:27:49 [INFO] Preparing start region for level 0
+2012-12-28 16:27:50 [INFO] Preparing spawn area: 15%
+2012-12-28 16:27:51 [INFO] Preparing spawn area: 58%
+2012-12-28 16:27:51 [INFO] Done (2.867s)! For help, type "help" or "?"
+2012-12-28 16:30:50 [INFO] commontypo[/10.102.73.105:22064] logged in with entity id 553 at (177.90785290235314, 85.47975085296675, -257.5286382946959)
+2012-12-28 16:30:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 17:00:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 17:06:54 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-28 18:32:47 [INFO] commontypo[/10.29.231.78:24776] logged in with entity id 25048 at (195.34165047895408, 22.0, -376.26388098626995)
+2012-12-28 18:46:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 18:49:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 18:52:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 18:53:40 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-28 19:04:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 02:09:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 05:03:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 05:07:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 05:07:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 05:09:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 05:10:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 07:11:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 08:42:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 12:01:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 12:07:57 [INFO] commontypo[/10.29.231.78:26192] logged in with entity id 36350 at (167.88236787915335, 52.0, -295.46783849792644)
+2012-12-29 12:07:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 12:08:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 12:09:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 12:10:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 12:10:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 12:21:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 12:22:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 12:24:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 12:40:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 13:27:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 13:31:22 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-29 15:35:50 [INFO] commontypo[/10.253.178.14:28971] logged in with entity id 83086 at (210.8538888550483, 8.0, -280.95475987224233)
+2012-12-29 16:09:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 16:11:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 16:20:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 16:24:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 16:37:30 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-29 20:52:25 [INFO] commontypo[/10.253.178.14:38380] logged in with entity id 132766 at (222.0331861131503, 20.0, -324.383631767827)
+2012-12-29 20:56:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 20:57:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 21:13:13 [INFO] [commontypo: Toggled downfall]
+2012-12-29 21:14:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 21:14:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 21:18:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 21:19:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 21:40:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-29 21:59:52 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-30 01:35:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 01:37:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 02:02:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 02:07:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 02:53:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 05:02:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 05:03:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 05:09:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 05:32:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 10:18:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 11:00:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 12:27:25 [INFO] commontypo[/10.102.73.105:41450] logged in with entity id 245303 at (-206.17632461385332, 72.0, -420.5380451982175)
+2012-12-30 12:27:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 12:54:58 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-30 14:04:37 [INFO] commontypo[/10.102.73.105:45070] logged in with entity id 273897 at (192.1604176891836, 79.0, -252.66305168184368)
+2012-12-30 14:09:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 14:22:44 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-30 15:03:07 [INFO] commontypo[/10.253.178.14:46866] logged in with entity id 294431 at (-185.7029969555072, 81.0, -408.73578667125366)
+2012-12-30 15:03:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 15:25:20 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-30 17:37:35 [INFO] commontypo[/10.29.231.78:51871] logged in with entity id 314700 at (-220.25355809214923, 72.0, -412.448030214772)
+2012-12-30 17:39:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 17:42:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 17:50:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 17:50:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 17:53:47 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-30 19:42:42 [INFO] commontypo[/10.253.178.14:55170] logged in with entity id 377865 at (191.12813226825705, 79.0, -257.07499998807924)
+2012-12-30 19:57:31 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-30 21:05:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-30 23:42:29 [INFO] flametofire[/10.29.231.78:62983] logged in with entity id 394336 at (168.48924620150112, 52.0, -294.8338619504597)
+2012-12-30 23:48:30 [INFO] [flametofire: Toggled downfall]
+2012-12-30 23:49:07 [INFO] flametofire lost connection: disconnect.quitting
+2012-12-30 23:49:50 [INFO] flametofire[/10.102.73.105:63605] logged in with entity id 400537 at (230.5846727503468, 8.0, -295.55191800348274)
+2012-12-31 00:01:02 [INFO] [flametofire: Given Water (ID 9) * 1 to flametofire]
+2012-12-31 00:01:16 [INFO] [flametofire: Given Lava (ID 10) * 1 to flametofire]
+2012-12-31 00:01:26 [INFO] [flametofire: Given Water (ID 8) * 1 to flametofire]
+2012-12-31 00:05:33 [INFO] flametofire lost connection: disconnect.quitting
+2012-12-31 05:02:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 05:03:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 05:05:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 05:06:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 05:07:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 05:08:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 05:09:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 05:10:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 05:12:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 15:37:41 [INFO] commontypo[/10.254.223.132:57955] logged in with entity id 419573 at (232.88505100136103, 5.0, -243.16672608153655)
+2012-12-31 15:37:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 15:42:19 [INFO] commontypo lost connection: disconnect.quitting
+2012-12-31 15:49:23 [INFO] flametofire[/10.253.178.14:51591] logged in with entity id 425036 at (208.61025630987217, 14.0, -254.30000001192096)
+2012-12-31 15:49:38 [INFO] [flametofire: Set the time to 0]
+2012-12-31 16:17:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 16:35:50 [INFO] flametofire lost connection: disconnect.genericReason
+2012-12-31 19:04:38 [INFO] flametofire[/10.254.223.132:53880] logged in with entity id 450174 at (192.15940201230518, 47.414028318470486, -296.6875114952385)
+2012-12-31 19:04:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 19:05:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 19:06:23 [INFO] [flametofire: Toggled downfall]
+2012-12-31 19:06:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 19:09:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 19:21:18 [INFO] [flametofire: Toggled downfall]
+2012-12-31 19:21:22 [INFO] [flametofire: Set the time to 0]
+2012-12-31 19:49:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 19:49:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 19:52:18 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-01 00:22:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 01:28:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 04:06:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 05:04:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 05:04:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 05:04:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 05:05:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 05:06:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 05:07:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 05:08:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 21:09:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 21:25:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 21:26:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 23:12:56 [INFO] flametofire[/10.253.178.14:58591] logged in with entity id 483165 at (165.72977559469936, 55.0, -300.021265116113)
+2013-01-01 23:13:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 23:13:19 [INFO] flametofire lost connection: disconnect.genericReason
+2013-01-01 23:13:44 [INFO] flametofire[/10.253.178.14:58682] logged in with entity id 483434 at (163.8892299053131, 52.0, -294.67760323718267)
+2013-01-01 23:13:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-01 23:14:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 00:57:25 [INFO] [flametofire: Set the time to 0]
+2013-01-02 00:57:45 [INFO] [flametofire: Toggled downfall]
+2013-01-02 01:30:24 [INFO] [flametofire: Set the time to 0]
+2013-01-02 01:43:07 [INFO] [flametofire: Set the time to 0]
+2013-01-02 02:14:48 [INFO] [flametofire: Set the time to 0]
+2013-01-02 02:30:32 [INFO] [flametofire: Set the time to 0]
+2013-01-02 03:02:15 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-02 05:02:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 05:07:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 05:32:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 07:42:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 08:40:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 12:27:33 [INFO] commontypo[/10.254.223.132:65161] logged in with entity id 587645 at (261.74993634426016, 70.0, -106.28491481296807)
+2013-01-02 12:27:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 12:29:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 12:32:30 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-02 13:29:42 [INFO] commontypo[/10.253.178.14:1722] logged in with entity id 593124 at (219.4309775236161, 68.0, -252.69742626968053)
+2013-01-02 13:48:00 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-02 15:31:23 [INFO] flametofire[/10.102.73.105:59238] logged in with entity id 607485 at (219.60677302137427, 17.36420291274799, -278.93184981188523)
+2013-01-02 15:50:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 16:00:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 16:18:18 [INFO] flametofire lost connection: disconnect.genericReason
+2013-01-02 17:43:18 [INFO] commontypo[/10.254.223.132:2790] logged in with entity id 639320 at (213.8914156268548, 20.0, -321.9095467167877)
+2013-01-02 17:43:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 17:56:14 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-02 18:19:12 [INFO] commontypo[/10.254.223.132:3944] logged in with entity id 647891 at (234.66545260941766, 8.0, -296.42344301411373)
+2013-01-02 18:19:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 18:22:44 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-02 19:51:28 [INFO] flametofire[/10.29.231.78:54638] logged in with entity id 651012 at (188.30000001192093, 18.28291087008372, -292.30000001192093)
+2013-01-02 19:59:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 20:02:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 20:09:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 20:14:35 [INFO] flametofire lost connection: disconnect.genericReason
+2013-01-02 20:17:00 [INFO] flametofire[/10.102.73.105:56931] logged in with entity id 679134 at (199.91797768766665, 20.859030538390574, -270.6145082111538)
+2013-01-02 20:17:53 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-02 20:18:16 [INFO] flametofire[/10.253.178.14:57188] logged in with entity id 680037 at (166.5524285337683, 52.0, -294.85585933237843)
+2013-01-02 20:27:35 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-02 20:33:17 [INFO] flametofire[/10.29.231.78:58968] logged in with entity id 687352 at (215.95892121640492, 19.162553469058295, -264.35448246995446)
+2013-01-02 20:41:54 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-02 21:27:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 21:53:57 [INFO] flametofire[/10.29.231.78:64455] logged in with entity id 694190 at (209.9685413317418, 58.04208467128659, -272.07070230807824)
+2013-01-02 21:59:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 22:03:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 22:05:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 22:05:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 22:06:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 22:09:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 22:09:19 [INFO] [flametofire: Set the time to 0]
+2013-01-02 22:09:27 [INFO] [flametofire: Toggled downfall]
+2013-01-02 22:10:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 22:11:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 22:25:23 [INFO] [flametofire: Set the time to 0]
+2013-01-02 22:33:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 22:37:01 [INFO] [flametofire: Set the time to 0]
+2013-01-02 22:45:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 22:48:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 22:49:06 [INFO] [flametofire: Set the time to 0]
+2013-01-02 22:52:27 [INFO] commontypo[/10.254.223.132:4252] logged in with entity id 751881 at (183.63679053310975, 14.0, -283.24985824317105)
+2013-01-02 22:52:30 [INFO] <flametofire> yo
+2013-01-02 22:52:34 [INFO] <commontypo> yo!
+2013-01-02 22:52:39 [INFO] <commontypo> so, where do i start
+2013-01-02 22:52:54 [INFO] <flametofire> well i kind of mine'd it all pretty much
+2013-01-02 22:53:09 [INFO] <flametofire> we broke part of the undercity
+2013-01-02 22:53:16 [INFO] <commontypo> ah, no worries
+2013-01-02 22:53:28 [INFO] <commontypo> i'll make a new entrance in the mined bit
+2013-01-02 22:53:32 [INFO] <flametofire> if you want to change over the top of this to grass that would be cool while i terraform
+2013-01-02 22:53:39 [INFO] <flametofire> or thats cool too
+2013-01-02 22:53:50 [INFO] <commontypo> yeah man, i'll hit up the grass
+2013-01-02 22:53:59 [INFO] <commontypo> just let me sort out some grass-laying tunes
+2013-01-02 22:54:06 [INFO] <flametofire> kk
+2013-01-02 22:58:13 [INFO] <commontypo> on it
+2013-01-02 22:58:16 [INFO] <flametofire> sweet
+2013-01-02 22:59:50 [INFO] [flametofire: Set the time to 0]
+2013-01-02 23:03:14 [INFO] <commontypo> there's a lot of overhanging bits around here we'll need to fix
+2013-01-02 23:03:23 [INFO] <flametofire> yeah im getting on them
+2013-01-02 23:03:42 [INFO] <flametofire> was thinking of pillars for a few of them
+2013-01-02 23:03:48 [INFO] <commontypo> ah, yes
+2013-01-02 23:03:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 23:07:12 [INFO] <flametofire> uhhh
+2013-01-02 23:07:14 [INFO] <flametofire> lol
+2013-01-02 23:07:19 [INFO] <flametofire> im so stuck on what to do
+2013-01-02 23:07:29 [INFO] <commontypo> im still laying the grass
+2013-01-02 23:07:33 [INFO] <flametofire> yeah
+2013-01-02 23:07:45 [INFO] <commontypo> also, thickening up the bits where there's only one block of soil when i get to them
+2013-01-02 23:07:54 [INFO] <flametofire> cool
+2013-01-02 23:08:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 23:09:20 [INFO] <flametofire> kk brb
+2013-01-02 23:09:23 [INFO] <commontypo> cool
+2013-01-02 23:15:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 23:15:44 [INFO] <flametofire> bk
+2013-01-02 23:15:46 [INFO] <commontypo> yo
+2013-01-02 23:15:49 [INFO] [flametofire: Set the time to 0]
+2013-01-02 23:18:26 [INFO] <flametofire> if you come over this side this is kinda what im thinking
+2013-01-02 23:18:36 [INFO] [commontypo: Teleported commontypo to flametofire]
+2013-01-02 23:18:48 [INFO] <flametofire> this level
+2013-01-02 23:18:55 [INFO] <flametofire> and that sort of gradient
+2013-01-02 23:19:04 [INFO] <commontypo> cool, so are we levelling roughly to here?
+2013-01-02 23:19:08 [INFO] <flametofire> yeah
+2013-01-02 23:28:42 [INFO] <commontypo> brb caffeine
+2013-01-02 23:28:47 [INFO] <flametofire> kk
+2013-01-02 23:30:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 23:31:31 [INFO] [flametofire: Set the time to 0]
+2013-01-02 23:32:24 [INFO] <commontypo> aight
+2013-01-02 23:32:35 [INFO] <commontypo> found a bag of spinach which needs eating by today
+2013-01-02 23:32:41 [INFO] <flametofire> lol nice
+2013-01-02 23:32:43 [INFO] <commontypo> looks like ive got some munching to do
+2013-01-02 23:32:49 [INFO] <flametofire> cool cool
+2013-01-02 23:34:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 23:35:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 23:37:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-02 23:42:11 [INFO] [flametofire: Set the time to 0]
+2013-01-02 23:42:36 [INFO] <flametofire> check out the pillars
+2013-01-02 23:42:46 [INFO] <flametofire> look ok?
+2013-01-02 23:42:49 [INFO] <commontypo> yeah man
+2013-01-02 23:43:06 [INFO] <flametofire> oh yeah you need this texture pack
+2013-01-02 23:43:09 [INFO] <flametofire> one sec
+2013-01-02 23:44:38 [INFO] <flametofire> sending you a link on fb
+2013-01-02 23:44:51 [INFO] <commontypo> cool man
+2013-01-02 23:50:32 [INFO] [flametofire: Teleported flametofire to commontypo]
+2013-01-02 23:50:51 [INFO] <flametofire> are you in a new skin?
+2013-01-02 23:50:56 [INFO] <commontypo> not yet
+2013-01-02 23:50:58 [INFO] <commontypo> hang on
+2013-01-02 23:51:01 [INFO] <flametofire> ok
+2013-01-02 23:51:07 [INFO] <flametofire> no i meant like character skin
+2013-01-02 23:51:17 [INFO] <commontypo> no man, same one!
+2013-01-02 23:51:27 [INFO] <flametofire> lol is it a steve?w
+2013-01-02 23:52:03 [INFO] <commontypo> steve?
+2013-01-02 23:52:08 [INFO] <flametofire> standard skin
+2013-01-02 23:52:16 [INFO] <commontypo> yeah, still that
+2013-01-02 23:52:31 [INFO] <flametofire> lol oooh, thats different for each texture pack lol
+2013-01-02 23:54:34 [INFO] <flametofire> i think it needs to come further out so we can build more buildings
+2013-01-02 23:54:41 [INFO] [flametofire: Set the time to 0]
+2013-01-02 23:54:52 [INFO] <commontypo> yeah, could do
+2013-01-02 23:55:16 [INFO] <commontypo> yeah, lava
+2013-01-02 23:55:46 [INFO] <flametofire> thought i would get rid of that then tnt a bit further out in a couple of sections
+2013-01-02 23:55:55 [INFO] <commontypo> ah, with the sand
+2013-01-02 23:57:34 [INFO] <commontypo> some of those are quite low - might end up taking quite a lot of the floor out!
+2013-01-02 23:57:51 [INFO] <flametofire> your right
+2013-01-02 23:58:27 [INFO] <commontypo> i think if you put the tnt at about ground level of the bit that we already had, that will be right
+2013-01-02 23:58:44 [INFO] <flametofire> cool coo
+2013-01-02 23:59:09 [INFO] <flametofire> lol
+2013-01-02 23:59:12 [INFO] <flametofire> too lol
+2013-01-02 23:59:13 [INFO] <flametofire> ok
+2013-01-02 23:59:16 [INFO] <flametofire> i suck
+2013-01-02 23:59:22 [INFO] <commontypo> it' sall good
+2013-01-02 23:59:31 [INFO] <commontypo> got loads of work now!
+2013-01-03 00:00:07 [INFO] <flametofire> that distance back is perfect though
+2013-01-03 00:00:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:00:19 [INFO] <commontypo> yeah man, we could have a second lower tier as well
+2013-01-03 00:01:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:05:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:05:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:06:12 [INFO] flametofire lost connection: disconnect.genericReason
+2013-01-03 00:07:50 [INFO] flametofire[/10.253.178.14:49225] logged in with entity id 810866 at (238.73676591484326, 103.34897410986245, -247.69956962093454)
+2013-01-03 00:07:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:07:54 [INFO] <flametofire> net cut out
+2013-01-03 00:08:04 [INFO] [flametofire: Set the time to 0]
+2013-01-03 00:08:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:10:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:10:36 [INFO] [flametofire: Teleported flametofire to commontypo]
+2013-01-03 00:10:58 [INFO] <commontypo> fixing the explosion damage and putting signs up
+2013-01-03 00:11:06 [INFO] <flametofire> cool
+2013-01-03 00:11:08 [INFO] <commontypo> i built this bit and i still get confused about where i am
+2013-01-03 00:11:14 [INFO] <flametofire> lol
+2013-01-03 00:11:25 [INFO] <flametofire> mining with tnt is quicker but has accidents
+2013-01-03 00:11:45 [INFO] <commontypo> yeah, it's a pretty comical way of excavating
+2013-01-03 00:11:51 [INFO] <flametofire> word
+2013-01-03 00:12:00 [INFO] <commontypo> the room with the chain is in here
+2013-01-03 00:12:15 [INFO] [flametofire: Teleported flametofire to commontypo]
+2013-01-03 00:12:21 [INFO] <commontypo> other side of that wall
+2013-01-03 00:12:37 [INFO] <flametofire> cool
+2013-01-03 00:12:39 [INFO] <commontypo> there's the bit which you've built
+2013-01-03 00:13:24 [INFO] <commontypo> it's not quite in line unfortunately, but some glass would look cool there
+2013-01-03 00:13:35 [INFO] <flametofire> there would be good
+2013-01-03 00:14:14 [INFO] <commontypo> nice
+2013-01-03 00:14:22 [INFO] <flametofire> looming out of the dark
+2013-01-03 00:14:36 [INFO] <commontypo> wonder if we should make the whole wall glass, put some stuff at the other end
+2013-01-03 00:14:57 [INFO] <flametofire> the whole wall?
+2013-01-03 00:15:10 [INFO] <commontypo> maybe not quite, but there's space in here to do something
+2013-01-03 00:15:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:15:25 [INFO] <flametofire> yeah
+2013-01-03 00:15:48 [INFO] <commontypo> perhaps a brick high, then the glass, so the it's more a large window than a glass wall
+2013-01-03 00:16:01 [INFO] <flametofire> yeah
+2013-01-03 00:16:32 [INFO] <commontypo> ah!
+2013-01-03 00:17:15 [INFO] <flametofire> yeah i really like that
+2013-01-03 00:17:24 [INFO] <flametofire> how you can just see it
+2013-01-03 00:19:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:21:03 [INFO] <commontypo> looking good
+2013-01-03 00:21:16 [INFO] <flametofire> and from up top too
+2013-01-03 00:22:18 [INFO] <commontypo> yep
+2013-01-03 00:24:31 [INFO] [flametofire: Set the time to 0]
+2013-01-03 00:25:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:30:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:35:02 [INFO] [flametofire: Set the time to 0]
+2013-01-03 00:37:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:40:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:43:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:47:59 [INFO] <commontypo> couldnt resist putting a structure of some sort in that crater
+2013-01-03 00:48:06 [INFO] <commontypo> it was the perfect shape
+2013-01-03 00:48:13 [INFO] <flametofire> fair play
+2013-01-03 00:48:50 [INFO] <flametofire> not really an anchor is it
+2013-01-03 00:49:13 [INFO] <commontypo> needs to be a point at the bottom
+2013-01-03 00:49:23 [INFO] <flametofire> kk
+2013-01-03 00:49:33 [INFO] <commontypo> looks close though
+2013-01-03 00:49:45 [INFO] <commontypo> yes
+2013-01-03 00:50:58 [INFO] <flametofire> is that too tacky or is it ok?
+2013-01-03 00:51:07 [INFO] <commontypo> looks good to me
+2013-01-03 00:51:13 [INFO] <flametofire> should we just have nice signage by the door?
+2013-01-03 00:51:30 [INFO] <commontypo> i reckon on every side might be a bit much
+2013-01-03 00:51:35 [INFO] <commontypo> door sounds good though
+2013-01-03 00:51:51 [INFO] <flametofire> one on this and the opposite side was what i was thinking
+2013-01-03 00:52:00 [INFO] <commontypo> yeah man
+2013-01-03 00:52:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 00:57:22 [INFO] <commontypo> im definitely doing a backup run tonight
+2013-01-03 00:57:29 [INFO] <flametofire> yeah sounds good
+2013-01-03 00:58:57 [INFO] [commontypo: Teleported commontypo to flametofire]
+2013-01-03 00:59:09 [INFO] <commontypo> got lost in some caves
+2013-01-03 00:59:14 [INFO] <flametofire> hahah
+2013-01-03 00:59:58 [INFO] <flametofire> trying to get these caves looking more natural before i light them
+2013-01-03 01:01:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 01:02:26 [INFO] <flametofire> its slowly geting there
+2013-01-03 01:03:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 01:05:42 [INFO] [flametofire: Set the time to 0]
+2013-01-03 01:11:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 01:16:40 [INFO] <commontypo> ah, nice lighting
+2013-01-03 01:17:10 [INFO] <flametofire> thanks
+2013-01-03 01:18:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 01:18:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 01:19:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 01:21:56 [INFO] <flametofire> im deleting alot of the glowstone so we can get an idea of what the lights will look like
+2013-01-03 01:22:05 [INFO] <commontypo> sounds good
+2013-01-03 01:37:07 [INFO] [flametofire: Set the time to 0]
+2013-01-03 01:39:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 01:45:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 01:48:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 01:48:59 [INFO] [flametofire: Teleported flametofire to commontypo]
+2013-01-03 01:53:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 01:54:11 [INFO] [flametofire: Set the time to 0]
+2013-01-03 01:55:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 01:59:27 [INFO] <commontypo> you still on? just wandered off for a while
+2013-01-03 01:59:36 [INFO] <flametofire> yeah for a little while
+2013-01-03 01:59:53 [INFO] <commontypo> cool, couldnt remember how to check who was on
+2013-01-03 02:00:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:00:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:01:41 [INFO] [commontypo: Teleported commontypo to flametofire]
+2013-01-03 02:05:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:05:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:14:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:14:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:15:04 [INFO] <commontypo> this is all working out nicely
+2013-01-03 02:15:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:15:16 [INFO] <flametofire> yeah man
+2013-01-03 02:15:26 [INFO] <flametofire> what do you think of the lift system?
+2013-01-03 02:15:39 [INFO] <flametofire> obv non-operational
+2013-01-03 02:15:58 [INFO] <commontypo> looks pretty sweet. shame it doesn't actually function though!
+2013-01-03 02:16:07 [INFO] <flametofire> yeah
+2013-01-03 02:16:12 [INFO] <flametofire> thats minecraft for you lol
+2013-01-03 02:16:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:16:54 [INFO] <commontypo> got some more rooms in the underground bit. there's a two storey one on the way
+2013-01-03 02:17:05 [INFO] <flametofire> sweet
+2013-01-03 02:17:24 [INFO] <commontypo> i want to see if I can find another place to put an entrance to the whole thing.
+2013-01-03 02:17:35 [INFO] <flametofire> yeah
+2013-01-03 02:17:40 [INFO] <commontypo> maybe on the other side of the hill if nothing's in the way
+2013-01-03 02:26:33 [INFO] <commontypo> yo!
+2013-01-03 02:26:39 [INFO] <flametofire> evening
+2013-01-03 02:26:47 [INFO] <flametofire> sounds good to me btw
+2013-01-03 02:26:54 [INFO] <commontypo> all of these rooms need stuff putting in them
+2013-01-03 02:26:58 [INFO] <commontypo> not sure what yet though
+2013-01-03 02:27:06 [INFO] <flametofire> i was thinking sewers was a pos
+2013-01-03 02:27:15 [INFO] <commontypo> that could work
+2013-01-03 02:27:47 [INFO] <commontypo> keeping some of them habitable would be good though - sewers would probably be a bit lower down
+2013-01-03 02:28:16 [INFO] <flametofire> true
+2013-01-03 02:28:35 [INFO] <flametofire> maybe some occulty type bit?
+2013-01-03 02:29:02 [INFO] <commontypo> yeah, that might work
+2013-01-03 02:29:35 [INFO] <commontypo> it's not quite like an underground network of passages because it's the same level as the lower city
+2013-01-03 02:29:44 [INFO] <flametofire> yeah
+2013-01-03 02:29:44 [INFO] <commontypo> but it is below the upper bit on the hill
+2013-01-03 02:30:12 [INFO] <flametofire> plotting and thought is needed
+2013-01-03 02:31:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:31:24 [INFO] <commontypo> definitely going to claim part of it for a house though
+2013-01-03 02:31:34 [INFO] <flametofire> fair play
+2013-01-03 02:32:21 [INFO] <commontypo> dude, i reckon im going to get some rest in a sec
+2013-01-03 02:32:33 [INFO] <commontypo> starting to feel a bit zombie like
+2013-01-03 02:32:33 [INFO] <flametofire> yeah im about the same place
+2013-01-03 02:33:28 [INFO] <commontypo> it's been a productive evening of building imaginary stuff though
+2013-01-03 02:33:44 [INFO] <flametofire> lol yeah man its been good
+2013-01-03 02:34:17 [INFO] <commontypo> hit me up if you're going to  be on at any point - i'll probably be doing nothing
+2013-01-03 02:34:38 [INFO] <flametofire> ok dude sounds sweet, would be nice to have more company on here
+2013-01-03 02:34:52 [INFO] <commontypo> yeah man, got to get hub on the mission as well!
+2013-01-03 02:34:57 [INFO] <flametofire> defo
+2013-01-03 02:35:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:35:13 [INFO] <commontypo> aight, im going to head.
+2013-01-03 02:35:18 [INFO] <flametofire> peace
+2013-01-03 02:35:18 [INFO] <commontypo> catch you iin a bit!
+2013-01-03 02:35:24 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-03 02:35:24 [INFO] <flametofire> nos da
+2013-01-03 02:45:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:46:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:46:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 02:48:51 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-03 05:03:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 05:04:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 05:05:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 05:10:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 05:27:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 07:09:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 11:29:51 [INFO] commontypo[/10.253.178.14:7448] logged in with entity id 954096 at (219.69999998807907, 8.0, -283.1630957659695)
+2013-01-03 11:29:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 11:55:49 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-03 12:40:09 [INFO] flametofire[/10.253.178.14:55406] logged in with entity id 977232 at (210.88151265419532, 14.0, -259.1109175060569)
+2013-01-03 12:47:05 [INFO] commontypo[/10.254.223.132:9536] logged in with entity id 985177 at (252.03223704110277, 8.0, -302.3097349632735)
+2013-01-03 12:47:09 [INFO] <commontypo> yo!
+2013-01-03 12:47:15 [INFO] <flametofire> hey
+2013-01-03 12:47:20 [INFO] <flametofire> about to graba bath lool
+2013-01-03 12:47:33 [INFO] <commontypo> haha, timing!
+2013-01-03 12:47:38 [INFO] <commontypo> you back on in a bit?
+2013-01-03 12:47:44 [INFO] <flametofire> yeah  man
+2013-01-03 12:47:53 [INFO] <flametofire> for a little while
+2013-01-03 12:48:10 [INFO] <commontypo> cool, i'll catch you in a bit then
+2013-01-03 12:48:17 [INFO] <flametofire> catch you in a mo
+2013-01-03 13:02:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 13:06:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 13:10:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 13:11:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 13:12:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 13:12:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 13:19:14 [INFO] <flametofire> bk
+2013-01-03 13:19:19 [INFO] <commontypo> yo!
+2013-01-03 13:19:38 [INFO] [commontypo: Teleported commontypo to flametofire]
+2013-01-03 13:19:52 [INFO] <flametofire> wha gwan?
+2013-01-03 13:21:20 [INFO] <commontypo> not much - trying to be as diplomatic as possible in a series of text messages mostly
+2013-01-03 13:21:33 [INFO] <flametofire> oh dear, whats that about?
+2013-01-03 13:22:01 [INFO] <commontypo> the young lady from the other night - have a feeling she thinks we're now dating, which is problem
+2013-01-03 13:22:05 [INFO] <commontypo> also, not the case
+2013-01-03 13:22:13 [INFO] <flametofire> Oh
+2013-01-03 13:22:18 [INFO] <flametofire> oh dear
+2013-01-03 13:22:25 [INFO] <flametofire> the verticly challenged one?
+2013-01-03 13:22:59 [INFO] <commontypo> Indeed. Incidentally, from the vague memories I have, the verticallly challenged part isnt the probl
+2013-01-03 13:23:09 [INFO] <flametofire> lol
+2013-01-03 13:23:22 [INFO] <commontypo> More potential crazy, I think
+2013-01-03 13:23:29 [INFO] <flametofire> when are they not with you?
+2013-01-03 13:25:42 [INFO] <commontypo> In general i think. Conversation keeps going from friendly to hostile to apologetic rapidly
+2013-01-03 13:25:53 [INFO] <flametofire> oh dear
+2013-01-03 13:26:24 [INFO] <commontypo> im just confused right now. also, I need to have a conversation with her as soon as possible
+2013-01-03 13:26:29 [INFO] <commontypo> this must be figured out
+2013-01-03 13:26:36 [INFO] <flametofire> fair play
+2013-01-03 13:27:03 [INFO] <flametofire> on a different topic
+2013-01-03 13:27:08 [INFO] <commontypo> yes
+2013-01-03 13:27:24 [INFO] <flametofire> what do you think to a stream/river round the base of this hill?
+2013-01-03 13:27:45 [INFO] <commontypo> all the way around?
+2013-01-03 13:27:47 [INFO] <flametofire> could have tributaries comming from the top bit
+2013-01-03 13:27:52 [INFO] <flametofire> some of the way
+2013-01-03 13:28:14 [INFO] <commontypo> some of the way sounds good. the pillars probably need avoiding I reckon
+2013-01-03 13:28:21 [INFO] <flametofire> yeah i think so too
+2013-01-03 13:28:24 [INFO] <commontypo> also, bridges might be tricky because of a lack of height
+2013-01-03 13:28:36 [INFO] <flametofire> yeah thats ok, well do little ones
+2013-01-03 13:28:48 [INFO] <flametofire> all the bridges need rerdoing anyway
+2013-01-03 13:31:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 13:32:17 [INFO] [flametofire: Set the time to 0]
+2013-01-03 13:38:35 [INFO] <commontypo> i reckon this construction I made is taking up too much space
+2013-01-03 13:38:40 [INFO] <commontypo> just going to remove that
+2013-01-03 13:38:49 [INFO] <flametofire> really?
+2013-01-03 13:38:56 [INFO] <flametofire> ok dude
+2013-01-03 13:39:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 13:39:04 [INFO] <commontypo> yeah, it looks interesting, but a bit far forward
+2013-01-03 13:39:14 [INFO] <commontypo> could build something similar, but 10 blocks back or so
+2013-01-03 13:39:18 [INFO] <flametofire> thats cool, we can always find another bit
+2013-01-03 13:39:20 [INFO] <flametofire> or that
+2013-01-03 13:43:36 [INFO] <flametofire> yeah that looks nice
+2013-01-03 13:43:54 [INFO] <commontypo> thats what I was thinking - needed cutting back a bit ther
+2013-01-03 13:44:10 [INFO] <flametofire> oh i meant the water
+2013-01-03 13:44:14 [INFO] <flametofire> but yeah your right
+2013-01-03 13:44:18 [INFO] <commontypo> also, that
+2013-01-03 13:44:23 [INFO] [flametofire: Set the time to 0]
+2013-01-03 13:47:09 [INFO] <flametofire> was thinking we need to grass this whole bottom layer probs
+2013-01-03 13:47:20 [INFO] <commontypo> yeah, i'll get on that
+2013-01-03 13:47:34 [INFO] <flametofire> so that when we build buildings it looks right
+2013-01-03 13:48:49 [INFO] <flametofire> got some re-designs for the blog btw
+2013-01-03 13:48:55 [INFO] <commontypo> ah, cool
+2013-01-03 13:49:03 [INFO] <flametofire> worked out what it should be finaly which is slightly annoying but also good
+2013-01-03 13:49:21 [INFO] <commontypo> let me know what the plan is and i'll get on it
+2013-01-03 13:49:31 [INFO] <commontypo> should have some time at the weekend, if you're free
+2013-01-03 13:49:47 [INFO] <flametofire> sweet, yeah just something for the traveling/art getting rid of the illegal stuff
+2013-01-03 13:50:01 [INFO] <commontypo> cool, should be no problem
+2013-01-03 13:50:05 [INFO] <flametofire> that way i can use fb etc and use all the people i know without fear of prosecution
+2013-01-03 13:51:42 [INFO] <flametofire> bex gets back at 2 btw so ill probs have to go soon
+2013-01-03 13:51:46 [INFO] <commontypo> no worries
+2013-01-03 13:52:04 [INFO] <flametofire> now its starting to look like i had in mind
+2013-01-03 13:54:29 [INFO] <flametofire> lol i got so carried away with the explosives xD
+2013-01-03 13:54:42 [INFO] <commontypo> yeah man, there's a huge crater under all this
+2013-01-03 13:54:49 [INFO] <commontypo> i was lazy, so i just covered it
+2013-01-03 13:55:08 [INFO] <flametofire> thats cool
+2013-01-03 13:57:17 [INFO] <flametofire> weird lag there
+2013-01-03 13:57:29 [INFO] <commontypo> yeah, i've noticed it sometimes
+2013-01-03 13:58:59 [INFO] flametofire lost connection: disconnect.endOfStream
+2013-01-03 13:59:05 [INFO] /10.253.178.14:60143 lost connection
+2013-01-03 13:59:26 [INFO] flametofire[/10.253.178.14:60238] logged in with entity id 1058484 at (174.87187092875217, 24.632620134692317, -291.69991850939255)
+2013-01-03 13:59:58 [INFO] [flametofire: Teleported flametofire to commontypo]
+2013-01-03 14:01:14 [INFO] <flametofire> wtf was that
+2013-01-03 14:01:25 [INFO] <commontypo> no idea, what happened to you?
+2013-01-03 14:01:37 [INFO] <flametofire> i just got spawned underground with a layer of laver over me
+2013-01-03 14:01:49 [INFO] flametofire lost connection: disconnect.endOfStream
+2013-01-03 14:01:55 [INFO] flametofire[/10.29.231.78:60681] logged in with entity id 1060303 at (239.4952483377647, 7.010635790131297, -244.71695846673524)
+2013-01-03 14:02:01 [INFO] <commontypo> wierd things be happening
+2013-01-03 14:02:04 [INFO] <flametofire> yeah
+2013-01-03 14:02:15 [INFO] <flametofire> i just got spawned under a layer of lava lol
+2013-01-03 14:02:23 [INFO] <commontypo> that's not good
+2013-01-03 14:02:31 [INFO] <flametofire> nope lol
+2013-01-03 14:03:50 [INFO] <commontypo> nice
+2013-01-03 14:03:58 [INFO] <flametofire> we should re-texture some blocks btw
+2013-01-03 14:04:03 [INFO] <commontypo> yeah
+2013-01-03 14:04:07 [INFO] <flametofire> we need brass pipes
+2013-01-03 14:04:24 [INFO] <flametofire> i think diamond ore wont be used here, its too greak
+2013-01-03 14:04:26 [INFO] <commontypo> should be able to figure that out
+2013-01-03 14:04:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 14:04:35 [INFO] <flametofire> so we should re-texture it like brass piping
+2013-01-03 14:04:40 [INFO] <commontypo> yes
+2013-01-03 14:04:56 [INFO] <flametofire> would give a nice steampunk look to the place
+2013-01-03 14:06:26 [INFO] <flametofire> and i was thinking we should make the nether brick steps look like rope maybe
+2013-01-03 14:06:43 [INFO] <flametofire> for hanging lights etc
+2013-01-03 14:07:16 [INFO] <commontypo> sounds good. just need to research how skins work and draw them
+2013-01-03 14:07:29 [INFO] <flametofire> yeah
+2013-01-03 14:09:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 14:10:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 14:10:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 14:10:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 14:11:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 14:14:44 [INFO] <flametofire> little bridges like that
+2013-01-03 14:20:38 [INFO] <flametofire> right im off dude
+2013-01-03 14:20:43 [INFO] <flametofire> peace
+2013-01-03 14:20:44 [INFO] <commontypo> cool, catch you in a bit
+2013-01-03 14:20:54 [INFO] <flametofire> this place is looking nice
+2013-01-03 14:21:03 [INFO] <commontypo> yeah man, it#s coming on well
+2013-01-03 14:21:34 [INFO] <flametofire> all these mobs everywhere get annoying though
+2013-01-03 14:21:45 [INFO] <commontypo> yeah, not sure what we can do about that
+2013-01-03 14:21:50 [INFO] <flametofire> its all good
+2013-01-03 14:22:03 [INFO] <commontypo> harming potion dispensers
+2013-01-03 14:22:08 [INFO] <flametofire> lol maybe
+2013-01-03 14:22:19 [INFO] <flametofire> the undead ones only get hurt by healing pots
+2013-01-03 14:22:22 [INFO] <flametofire> anyway
+2013-01-03 14:22:23 [INFO] <flametofire> peace
+2013-01-03 14:22:29 [INFO] <commontypo> yeah man, inabit
+2013-01-03 14:22:31 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-03 14:22:34 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-03 20:52:48 [INFO] commontypo[/10.102.73.105:14522] logged in with entity id 1080376 at (241.69033356867058, 7.0, -231.30000001192084)
+2013-01-03 20:52:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 21:04:33 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-03 21:08:50 [INFO] commontypo[/10.254.223.132:14719] logged in with entity id 1091760 at (203.61067032955594, 46.0, -357.8058675665455)
+2013-01-03 21:10:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 21:10:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 21:25:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 21:25:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 21:26:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 21:26:48 [INFO] commontypo lost connection: disconnect.genericReason
+2013-01-03 21:28:07 [INFO] commontypo[/10.253.178.14:15058] logged in with entity id 1114380 at (-110.32581326009635, 106.54805025046569, -240.15483894447797)
+2013-01-03 21:28:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 21:29:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 21:29:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 21:30:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 21:31:04 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-03 22:33:27 [INFO] flametofire[/10.29.231.78:51141] logged in with entity id 1126374 at (217.29432618984924, 16.944581490101438, -249.6229648762077)
+2013-01-03 22:33:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 22:35:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 22:35:55 [INFO] [flametofire: Set the time to 0]
+2013-01-03 22:36:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 22:41:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 22:46:24 [INFO] [flametofire: Set the time to 0]
+2013-01-03 23:05:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 23:24:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 23:33:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-03 23:50:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 00:02:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 00:04:25 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-04 01:51:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 02:13:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 03:51:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 04:33:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:03:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:05:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:05:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:06:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:08:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:08:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:10:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:12:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:12:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:13:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:14:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:16:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:17:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:19:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:31:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 05:39:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 06:53:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 07:20:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 08:44:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 12:01:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 15:59:46 [INFO] commontypo[/10.254.223.132:21885] logged in with entity id 1208554 at (-220.30000001192093, 72.0, -416.30000001192093)
+2013-01-04 15:59:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 15:59:54 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-04 17:08:47 [INFO] flametofire[/10.29.231.78:56506] logged in with entity id 1208870 at (170.41035976258243, 47.0, -256.01833625922467)
+2013-01-04 17:08:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 17:10:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 17:11:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 17:11:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 17:14:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 17:14:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 17:15:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 17:15:46 [INFO] [flametofire: Toggled downfall]
+2013-01-04 17:18:50 [INFO] [flametofire: Set the time to 0]
+2013-01-04 17:26:16 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-04 18:09:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 18:38:39 [INFO] flametofire[/10.102.73.105:52065] logged in with entity id 1237305 at (186.89549841782397, 94.97972133976738, -260.70571577820317)
+2013-01-04 18:42:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 18:49:12 [INFO] [flametofire: Set the time to 0]
+2013-01-04 18:59:49 [INFO] [flametofire: Set the time to 0]
+2013-01-04 19:00:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 19:10:20 [INFO] [flametofire: Set the time to 0]
+2013-01-04 19:12:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 19:12:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 19:20:44 [INFO] [flametofire: Set the time to 0]
+2013-01-04 19:31:49 [INFO] [flametofire: Set the time to 0]
+2013-01-04 19:42:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 19:42:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 19:43:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 19:43:38 [INFO] [flametofire: Set the time to 0]
+2013-01-04 19:45:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 19:47:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 19:49:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 19:51:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-04 19:53:56 [INFO] flametofire lost connection: disconnect.genericReason
+2013-01-05 01:19:57 [INFO] flametofire[/10.254.223.132:49367] logged in with entity id 1385567 at (228.93321281431543, 7.0, -241.02938561289577)
+2013-01-05 01:20:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 01:25:55 [INFO] [flametofire: Toggled downfall]
+2013-01-05 01:29:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 01:34:05 [INFO] [flametofire: Set the time to 0]
+2013-01-05 01:35:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 01:37:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 01:42:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 01:44:43 [INFO] [flametofire: Set the time to 0]
+2013-01-05 01:47:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 01:54:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 01:54:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 01:55:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 01:55:08 [INFO] [flametofire: Set the time to 0]
+2013-01-05 01:55:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 01:55:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 01:58:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 02:00:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 02:01:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 02:01:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 02:02:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 02:04:38 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-05 05:04:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 05:04:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 02:22:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 05:02:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 05:03:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 05:04:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 05:05:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 05:06:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 05:08:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 05:11:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 05:16:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 05:47:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 08:23:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 08:47:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 09:47:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 10:03:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 11:56:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 13:23:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 15:12:31 [INFO] /10.254.223.132:53802 lost connection
+2013-01-06 15:16:55 [INFO] /10.102.73.105:29139 lost connection
+2013-01-06 15:32:19 [INFO] JoeThompson[/10.29.231.78:49911] logged in with entity id 1474606 at (37.5, 31.62000000476837, 251.5)
+2013-01-06 15:32:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 15:35:07 [INFO] <JoeThompson> helloo???
+2013-01-06 15:50:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 15:58:05 [INFO] JoeThompson lost connection: disconnect.quitting
+2013-01-06 16:36:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 16:42:10 [INFO] JoeThompson[/10.253.178.14:49929] logged in with entity id 1499200 at (72.35535740749043, 63.0, 275.66420216104405)
+2013-01-06 16:43:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 16:49:20 [INFO] JoeThompson lost connection: disconnect.quitting
+2013-01-06 17:39:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 18:59:27 [INFO] flametofire[/10.253.178.14:54241] logged in with entity id 1507662 at (197.1803646910801, 98.29271544072469, -255.84974552334182)
+2013-01-06 19:09:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 19:18:18 [INFO] commontypo[/10.102.73.105:29236] logged in with entity id 1523551 at (-220.30000001192093, 72.0, -416.30000001192093)
+2013-01-06 19:18:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 19:18:32 [INFO] <commontypo> yo!
+2013-01-06 19:25:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 19:27:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 19:30:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 19:33:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 19:35:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 19:37:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 19:42:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 19:43:22 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-06 20:43:44 [INFO] flametofire lost connection: disconnect.genericReason
+2013-01-06 21:44:15 [INFO] flametofire[/10.253.178.14:52540] logged in with entity id 1601831 at (197.1803646910801, 98.29271544072469, -255.84974552334182)
+2013-01-06 21:44:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 21:47:16 [INFO] [flametofire: Set the time to 0]
+2013-01-06 21:57:28 [INFO] [flametofire: Set the time to 0]
+2013-01-06 22:07:19 [INFO] [flametofire: Set the time to 0]
+2013-01-06 22:17:56 [INFO] [flametofire: Set the time to 0]
+2013-01-06 22:19:40 [INFO] [flametofire: Toggled downfall]
+2013-01-06 22:27:57 [INFO] [flametofire: Set the time to 0]
+2013-01-06 22:39:06 [INFO] [flametofire: Set the time to 0]
+2013-01-06 22:49:39 [INFO] [flametofire: Set the time to 0]
+2013-01-06 23:00:14 [INFO] [flametofire: Set the time to 0]
+2013-01-06 23:11:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 23:11:44 [INFO] [flametofire: Set the time to 0]
+2013-01-06 23:15:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 23:15:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-06 23:16:33 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-06 23:37:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 03:18:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 03:47:04 [INFO] flametofire[/10.254.223.132:58332] logged in with entity id 1716135 at (194.7723257313074, 94.05903966064237, -284.11634319561074)
+2013-01-07 03:48:32 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-07 05:04:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 05:05:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 05:05:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 05:06:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 05:07:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 05:08:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 05:08:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 05:09:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 05:13:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 08:10:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 09:48:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 10:02:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 16:01:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 16:39:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 16:53:26 [INFO] flametofire[/10.253.178.14:56332] logged in with entity id 1717849 at (183.43893393124833, 53.47945158133293, -273.30000001192104)
+2013-01-07 16:53:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 17:04:10 [INFO] [flametofire: Set the time to 0]
+2013-01-07 17:16:24 [INFO] [flametofire: Set the time to 0]
+2013-01-07 17:25:40 [INFO] [flametofire: Toggled downfall]
+2013-01-07 17:25:54 [INFO] commontypo[/10.254.223.132:34087] logged in with entity id 1783469 at (-110.06490455452217, 73.0, -208.76805878060387)
+2013-01-07 17:25:57 [INFO] <flametofire> yo
+2013-01-07 17:26:07 [INFO] <commontypo> hey dude, hows it going
+2013-01-07 17:26:12 [INFO] <flametofire> its cool
+2013-01-07 17:26:17 [INFO] <flametofire> just building you know
+2013-01-07 17:26:35 [INFO] <commontypo> yeah man
+2013-01-07 17:27:01 [INFO] <flametofire> you like the tower?
+2013-01-07 17:27:09 [INFO] <commontypo> haven't seen it yet. are you there?
+2013-01-07 17:27:15 [INFO] <flametofire> yeah
+2013-01-07 17:27:16 [INFO] [commontypo: Teleported commontypo to flametofire]
+2013-01-07 17:27:21 [INFO] <flametofire> its not quite finished yet
+2013-01-07 17:27:25 [INFO] <flametofire> getting close though
+2013-01-07 17:27:31 [INFO] <commontypo> nice!
+2013-01-07 17:27:54 [INFO] <flametofire> put loads of effort into the windows
+2013-01-07 17:28:05 [INFO] <commontypo> yeah, they're pretty substantial
+2013-01-07 17:28:14 [INFO] <flametofire> ive worked out uses for the top three layers but not the rest quite
+2013-01-07 17:28:23 [INFO] <commontypo> how do you get into it, other than flying?
+2013-01-07 17:28:30 [INFO] <flametofire> im thinking its like the grand mages tower or something
+2013-01-07 17:28:40 [INFO] <flametofire> over here
+2013-01-07 17:29:14 [INFO] <commontypo> ah, so it's not quite in the city but overhangs it
+2013-01-07 17:29:29 [INFO] <flametofire> yeahw
+2013-01-07 17:29:53 [INFO] <flametofire> we have the grand library
+2013-01-07 17:30:04 [INFO] <flametofire> the reference section anyway
+2013-01-07 17:30:24 [INFO] <flametofire> this will be the grand mages bedroom
+2013-01-07 17:30:32 [INFO] <flametofire> and above there will be an attic
+2013-01-07 17:30:37 [INFO] <commontypo> ah, right
+2013-01-07 17:30:39 [INFO] <flametofire> other then that i dont know what to do with it
+2013-01-07 17:30:52 [INFO] <commontypo> i reckon put stuff in it, and see what happens
+2013-01-07 17:31:01 [INFO] <flametofire> thats so weird at night
+2013-01-07 17:31:03 [INFO] <flametofire> lol
+2013-01-07 17:31:12 [INFO] <flametofire> clouds tun into sky
+2013-01-07 17:31:13 [INFO] <commontypo> i approve though
+2013-01-07 17:31:16 [INFO] <flametofire> yeah
+2013-01-07 17:31:23 [INFO] <flametofire> sweet
+2013-01-07 17:32:29 [INFO] <flametofire> you been doing anything on here at all?
+2013-01-07 17:32:37 [INFO] [flametofire: Set the time to 0]
+2013-01-07 17:33:05 [INFO] <commontypo> there's a spot near here where i'm just building stuff for fun - trying things out
+2013-01-07 17:33:18 [INFO] <flametofire> cool you should show me some time
+2013-01-07 17:33:20 [INFO] <commontypo> can't quite remember where it is though - usuallt have to fly around a bit to find it
+2013-01-07 17:33:27 [INFO] <flametofire> lol
+2013-01-07 17:33:51 [INFO] <commontypo> oh yeah, i found a way into the caves under the city which comes out in the middle of the sea
+2013-01-07 17:33:56 [INFO] <flametofire> nice
+2013-01-07 17:34:22 [INFO] <commontypo> looks like a half assed oil rig at the moment
+2013-01-07 17:34:26 [INFO] <flametofire> haha
+2013-01-07 17:34:32 [INFO] <flametofire> oh that bit yeah lol
+2013-01-07 17:35:03 [INFO] <commontypo> dont really know what's going on with that either, but im about to explore it
+2013-01-07 17:35:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 17:35:11 [INFO] <flametofire> fair
+2013-01-07 17:37:11 [INFO] <commontypo> oh yeah, it's like a load of underground gorges which are impossible to navigate
+2013-01-07 17:37:17 [INFO] <flametofire> ahh
+2013-01-07 17:37:28 [INFO] <commontypo> time to put some stairs in
+2013-01-07 17:37:44 [INFO] [flametofire: Set the time to 12500]
+2013-01-07 17:40:51 [INFO] commontypo lost connection: disconnect.genericReason
+2013-01-07 17:41:54 [INFO] commontypo[/10.29.231.78:34298] logged in with entity id 1800631 at (190.42383392001304, 33.98681749901009, -437.6999999880791)
+2013-01-07 17:41:57 [INFO] <flametofire> wb
+2013-01-07 17:41:59 [INFO] <commontypo> yo!
+2013-01-07 17:42:39 [INFO] <commontypo> yeah man, upgrades need to happen
+2013-01-07 17:43:00 [INFO] <commontypo> all depends on server resources though - i'll probably have to make a new instance with more ram
+2013-01-07 17:43:04 [INFO] <commontypo> then move the world over
+2013-01-07 17:43:11 [INFO] <flametofire> ok
+2013-01-07 17:43:14 [INFO] <flametofire> is that hard?
+2013-01-07 17:44:02 [INFO] <commontypo> shouldn't be - some other dude did most of the hard work already
+2013-01-07 17:44:10 [INFO] <flametofire> lol
+2013-01-07 17:44:26 [INFO] <commontypo> just need to work out how to do all the manual stuff with the server instances
+2013-01-07 17:44:32 [INFO] <commontypo> last install was all automated
+2013-01-07 17:44:41 [INFO] <flametofire> ahh ok
+2013-01-07 17:57:27 [INFO] <commontypo> bored of wandering in caves now
+2013-01-07 17:57:31 [INFO] [commontypo: Teleported commontypo to flametofire]
+2013-01-07 17:57:33 [INFO] <flametofire> wanna see the attick
+2013-01-07 17:58:07 [INFO] <flametofire> not sure what to do with that bit lol
+2013-01-07 17:59:10 [INFO] <flametofire> the grand mages bedroom
+2013-01-07 17:59:18 [INFO] <commontypo> sweet
+2013-01-07 18:00:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 18:00:57 [INFO] [flametofire: Set the time to 0]
+2013-01-07 18:00:59 [INFO] <flametofire> thatnks
+2013-01-07 18:03:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 18:03:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 18:04:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 18:05:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 18:06:32 [INFO] [flametofire: Teleported flametofire to commontypo]
+2013-01-07 18:06:46 [INFO] <flametofire> i love that the inside of your head is a log
+2013-01-07 18:06:56 [INFO] <flametofire> ver nice
+2013-01-07 18:06:56 [INFO] <commontypo> wait, what?
+2013-01-07 18:07:12 [INFO] <commontypo> yeah man, just trying to make it a bit less like a dark tunnel
+2013-01-07 18:07:19 [INFO] <flametofire> yeah ill help
+2013-01-07 18:08:03 [INFO] <commontypo> it all links up to the tunnels under the city I think, but there's a lot of them
+2013-01-07 18:08:12 [INFO] <flametofire> nice
+2013-01-07 18:08:12 [INFO] <commontypo> yeah, that's what im talking about
+2013-01-07 18:09:12 [INFO] <commontypo> im going to keep the bit where the glass is really dark - there's lights in the bit below it
+2013-01-07 18:09:22 [INFO] <flametofire> yeah thats coolw
+2013-01-07 18:09:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 18:15:54 [INFO] <commontypo> yeah, i still need to get the texture pack installed
+2013-01-07 18:16:02 [INFO] <flametofire> lol do it already
+2013-01-07 18:16:11 [INFO] <commontypo> hang on a second
+2013-01-07 18:16:13 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-07 18:16:14 [INFO] <flametofire> haha
+2013-01-07 18:19:58 [INFO] commontypo[/10.253.178.14:34798] logged in with entity id 1836285 at (193.53003000109658, 46.0, -426.5538271290135)
+2013-01-07 18:20:04 [INFO] <commontypo> yeah!
+2013-01-07 18:20:18 [INFO] [commontypo: Teleported commontypo to flametofire]
+2013-01-07 18:20:27 [INFO] <flametofire> yo
+2013-01-07 18:20:43 [INFO] <flametofire> sorry had the ui turned off
+2013-01-07 18:20:55 [INFO] <commontypo> no worries - just got the texture pack happening
+2013-01-07 18:21:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 18:21:23 [INFO] <flametofire> wicked
+2013-01-07 18:21:46 [INFO] <commontypo> ah dude, it's so confusing trying to navigate this now - everything looks different!
+2013-01-07 18:23:33 [INFO] <flametofire> really?
+2013-01-07 18:24:02 [INFO] <commontypo> might just be that i got lost in some bit I havent been in for a while actully
+2013-01-07 18:24:09 [INFO] <flametofire> haha
+2013-01-07 18:24:12 [INFO] <flametofire> where are you?
+2013-01-07 18:24:22 [INFO] <commontypo> in the oil rig tunnel bit
+2013-01-07 18:24:25 [INFO] <flametofire> ahh ok
+2013-01-07 18:24:31 [INFO] <commontypo> trying to find a way through
+2013-01-07 18:25:14 [INFO] <flametofire> need a hand?
+2013-01-07 18:25:25 [INFO] <commontypo> if you like
+2013-01-07 18:25:37 [INFO] <commontypo> my backup plan is to teleport over to you if i get lost
+2013-01-07 18:25:56 [INFO] <flametofire> the lights that are torches should be on your left hand on the way out
+2013-01-07 18:27:42 [INFO] <flametofire> lol there you go
+2013-01-07 18:27:57 [INFO] <commontypo> cheers!
+2013-01-07 18:28:05 [INFO] <flametofire> nw
+2013-01-07 18:31:13 [INFO] [flametofire: Set the time to 0]
+2013-01-07 18:34:39 [INFO] <flametofire> i made a massive church style window
+2013-01-07 18:34:45 [INFO] <flametofire> we should use the design for something
+2013-01-07 18:34:46 [INFO] <commontypo> yeah man, just noticed
+2013-01-07 18:35:02 [INFO] <commontypo> im liking it
+2013-01-07 18:35:18 [INFO] <flametofire> stairs are versatile
+2013-01-07 18:35:59 [INFO] <flametofire> what should we use it for?
+2013-01-07 18:36:28 [INFO] <flametofire> its 19 blocks high
+2013-01-07 18:38:19 [INFO] <commontypo> no idea - i reckon it would work nicely somewhere outside the city
+2013-01-07 18:38:40 [INFO] <commontypo> maybe some kind of huge monument somewhere nearby - that's what I thought it was at first
+2013-01-07 18:38:46 [INFO] <flametofire> maybe we need to build like a summer home for whoever the rulers are of this place
+2013-01-07 18:38:56 [INFO] <flametofire> yeah i guess thats doable also
+2013-01-07 18:39:07 [INFO] <flametofire> i was thinking like windows for something
+2013-01-07 18:39:45 [INFO] <commontypo> ah yes, i think monument was the wrong word actually. if they were windows, that building would be
+2013-01-07 18:39:47 [INFO] <commontypo> massive
+2013-01-07 18:40:17 [INFO] <flametofire> yeah i know
+2013-01-07 18:40:22 [INFO] <flametofire> would be fucking cool though
+2013-01-07 18:41:34 [INFO] <flametofire> its is big lol
+2013-01-07 18:42:23 [INFO] <commontypo> yo, i've got to head for a bit - just found out Mark's got my wallet
+2013-01-07 18:42:25 [INFO] <flametofire> this whole city is starting to look cool
+2013-01-07 18:42:29 [INFO] <flametofire> ok then dude
+2013-01-07 18:42:33 [INFO] <flametofire> ill catch you in a little bit
+2013-01-07 18:42:44 [INFO] <commontypo> should be back aftewrards
+2013-01-07 18:42:49 [INFO] <commontypo> inabit!
+2013-01-07 18:42:49 [INFO] <flametofire> cool cool
+2013-01-07 18:42:52 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-07 18:42:52 [INFO] <flametofire> peace
+2013-01-07 18:43:32 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-07 21:32:42 [INFO] flametofire[/10.29.231.78:55309] logged in with entity id 1859127 at (190.87686374365637, 27.740101369805625, -265.95122113294303)
+2013-01-07 21:48:42 [INFO] [flametofire: Set the time to 0]
+2013-01-07 21:52:50 [INFO] flametofire lost connection: disconnect.genericReason
+2013-01-07 22:26:15 [INFO] flametofire[/10.29.231.78:60855] logged in with entity id 1882219 at (201.323283849324, 21.86565059292226, -259.23210086501456)
+2013-01-07 22:26:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 22:26:46 [INFO] [flametofire: Set the time to 0]
+2013-01-07 22:37:18 [INFO] [flametofire: Set the time to 0]
+2013-01-07 22:49:31 [INFO] [flametofire: Set the time to 0]
+2013-01-07 23:00:38 [INFO] [flametofire: Set the time to 0]
+2013-01-07 23:05:22 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-07 23:07:18 [INFO] flametofire[/10.254.223.132:64498] logged in with entity id 1922104 at (198.18012234459346, 122.0, -254.20406773193542)
+2013-01-07 23:07:29 [INFO] flametofire lost connection: disconnect.genericReason
+2013-01-07 23:11:08 [INFO] flametofire[/10.102.73.105:65219] logged in with entity id 1922383 at (198.18012234459346, 122.0, -254.20406773193542)
+2013-01-07 23:11:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-07 23:11:16 [INFO] [flametofire: Set the time to 0]
+2013-01-07 23:11:59 [INFO] flametofire lost connection: disconnect.genericReason
+2013-01-07 23:30:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 00:12:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 00:37:53 [INFO] flametofire[/10.254.223.132:54741] logged in with entity id 1923659 at (197.85503484901608, 87.0, -231.3213880214453)
+2013-01-08 00:42:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 01:13:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 01:15:35 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-08 02:45:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 05:04:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 05:07:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 05:08:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 05:09:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 05:10:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 05:47:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 13:12:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 17:39:57 [INFO] flametofire[/10.254.223.132:64608] logged in with entity id 1944841 at (234.42354242638578, 42.123004707938534, -271.02760099204454)
+2013-01-08 17:40:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 18:09:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 18:25:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 18:28:31 [INFO] flametofire lost connection: disconnect.genericReason
+2013-01-08 18:51:20 [INFO] commontypo[/10.254.223.132:36790] logged in with entity id 1973279 at (281.52295223827724, 79.61212620535413, -270.4392854370492)
+2013-01-08 18:52:51 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-08 18:54:36 [INFO] commontypo[/10.253.178.14:36837] logged in with entity id 1976416 at (366.130701892419, 89.73668540738224, -50.3544692613925)
+2013-01-08 18:57:00 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-08 18:57:04 [INFO] commontypo[/10.102.73.105:36870] logged in with entity id 1977869 at (332.69999998807907, 127.17955409104067, -43.69999998807907)
+2013-01-08 19:08:26 [INFO] [commontypo: Set the time to 0]
+2013-01-08 19:19:58 [INFO] [commontypo: Set the time to 0]
+2013-01-08 19:44:31 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-08 19:44:40 [INFO] commontypo[/10.29.231.78:37454] logged in with entity id 2415937 at (-179.5450485273003, 128.37989269038, -147.9684018745084)
+2013-01-08 20:00:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 20:00:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 20:17:31 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-08 20:43:44 [INFO] commontypo[/10.254.223.132:38408] logged in with entity id 2688571 at (-118.89449062810397, 59.0, -208.02334118329443)
+2013-01-08 20:44:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 20:48:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 21:10:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 21:26:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 21:27:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 21:42:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 21:50:07 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-08 21:50:46 [INFO] flametofire[/10.254.223.132:62251] logged in with entity id 3038961 at (211.9439816763008, 15.168748867615237, -260.0635052016202)
+2013-01-08 21:54:02 [INFO] [flametofire: Set the time to 0]
+2013-01-08 22:04:54 [INFO] [flametofire: Set the time to 0]
+2013-01-08 22:35:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-08 22:37:54 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-09 00:25:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 00:26:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 00:27:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 00:36:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 00:37:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 00:37:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 00:38:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 00:40:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 00:41:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 00:53:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 03:34:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 03:49:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:06:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:06:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:07:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:09:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:09:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:09:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:11:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:11:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:12:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:13:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:14:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:15:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 05:17:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 07:04:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 07:05:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 08:03:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 09:25:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 13:40:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 17:16:48 [INFO] commontypo[/10.254.223.132:39815] logged in with entity id 3084036 at (-203.35395622174488, 145.77728332052797, -145.96936649203235)
+2013-01-09 17:16:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 17:22:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 17:40:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 17:41:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 17:49:42 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-09 18:34:26 [INFO] commontypo[/10.29.231.78:42062] logged in with entity id 3213456 at (-223.57912588073305, 160.13749300463542, -160.36417536225537)
+2013-01-09 18:39:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 18:57:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-09 19:15:48 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-09 21:32:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 00:44:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 01:37:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 05:04:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 05:04:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 05:06:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 05:09:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 05:26:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 06:02:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 06:39:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 07:03:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 07:23:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 07:39:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 09:50:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 18:20:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 20:18:14 [INFO] commontypo[/10.102.73.105:44321] logged in with entity id 3426266 at (-203.0894587889217, 167.37201541129303, -227.05709797594142)
+2013-01-10 20:18:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 21:33:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 21:45:10 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-10 22:28:00 [INFO] commontypo[/10.29.231.78:46456] logged in with entity id 3814683 at (-192.55332582941924, 132.16752368882118, -157.19210704076005)
+2013-01-10 22:28:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 22:50:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 23:00:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 23:01:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 23:01:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 23:04:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 23:10:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 23:11:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-10 23:13:07 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-10 23:26:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 05:04:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 05:10:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 05:25:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 08:17:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 10:17:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 12:51:37 [INFO] commontypo[/10.253.178.14:2677] logged in with entity id 3966760 at (-211.30625520471244, 139.66493257294164, -152.62844469024094)
+2013-01-11 12:51:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 12:56:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 13:00:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 13:01:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 13:02:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 13:09:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 13:11:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 13:11:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-11 13:12:14 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-12 00:01:39 [INFO] flametofire[/10.254.223.132:50918] logged in with entity id 4036783 at (211.67750719095963, 42.14607356185626, -264.0074173035082)
+2013-01-12 00:01:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 00:15:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 00:21:16 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-12 02:09:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 05:03:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 05:04:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 05:04:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 05:05:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 05:07:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 05:08:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 05:26:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 05:43:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 12:06:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 12:46:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 14:09:55 [INFO] commontypo[/10.29.231.78:8799] logged in with entity id 4090472 at (-186.300000011921, 131.7673416655194, -169.59096171506064)
+2013-01-12 14:09:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 14:17:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 14:33:21 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-12 15:07:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 15:24:14 [INFO] commontypo[/10.253.178.14:10301] logged in with entity id 4466350 at (-187.96115355958335, 130.5, -172.73245773954105)
+2013-01-12 15:24:58 [INFO] [commontypo: Toggled downfall]
+2013-01-12 15:39:01 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-12 16:29:44 [INFO] commontypo[/10.253.178.14:12603] logged in with entity id 4685002 at (-214.13618641554802, 251.0, -165.75300531402297)
+2013-01-12 16:53:18 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-12 17:18:35 [INFO] commontypo[/10.29.231.78:13362] logged in with entity id 4795010 at (-204.34275890820618, 130.5, -113.06009482646493)
+2013-01-12 17:23:29 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-12 18:58:05 [INFO] commontypo[/10.102.73.105:16660] logged in with entity id 4808384 at (-190.70580922791126, 138.48911186237103, -110.2674633040883)
+2013-01-12 18:58:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 19:19:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 19:25:30 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-12 19:44:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-12 20:00:34 [INFO] flametofire[/10.254.223.132:50640] logged in with entity id 4903678 at (181.1526742634894, 14.0, -293.11239644187737)
+2013-01-12 20:10:32 [INFO] [flametofire: Set the time to 0]
+2013-01-12 20:24:16 [INFO] [flametofire: Set the time to 0]
+2013-01-12 20:51:16 [INFO] flametofire lost connection: disconnect.genericReason
+2013-01-12 21:45:49 [INFO] flametofire[/10.102.73.105:58081] logged in with entity id 4968477 at (187.393161196293, 14.0, -264.55307204375686)
+2013-01-12 21:56:20 [INFO] [flametofire: Teleported flametofire to 197.50,87.50,-232.50]
+2013-01-12 21:56:29 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-12 21:57:59 [INFO] commontypo[/10.253.178.14:59522] logged in with entity id 5002102 at (-207.47377701808196, 130.0, -106.72572822936128)
+2013-01-12 22:04:51 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-13 05:04:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-13 05:07:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-13 05:35:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-13 05:37:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-13 11:05:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-13 11:05:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 05:03:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 05:04:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 05:04:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 05:07:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 05:10:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 05:12:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 05:13:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 05:25:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 05:47:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 05:48:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 07:37:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 07:38:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 11:29:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 12:08:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 18:04:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 20:05:37 [INFO] commontypo[/10.253.178.14:9623] logged in with entity id 5064587 at (-75.70396272826983, 88.0, -304.52434945475363)
+2013-01-14 20:05:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 20:17:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 20:45:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 20:56:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 21:03:17 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-14 21:26:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-14 21:26:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 05:03:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 05:04:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 05:05:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 05:05:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 05:09:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 05:13:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 10:08:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 11:48:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:48:15 [INFO] commontypo[/10.102.73.105:65259] logged in with entity id 5247946 at (-213.5849508301622, 131.0, -106.58320746202693)
+2013-01-15 16:48:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:48:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:49:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:49:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:50:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:50:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:50:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:51:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:54:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:54:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:55:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:56:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:56:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:56:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 16:57:51 [INFO] commontypo lost connection: disconnect.quitting
+2013-01-15 16:58:49 [INFO] flametofire[/10.214.198.217:50440] logged in with entity id 5283169 at (203.87967730820483, 93.11555660223249, -243.33843322493027)
+2013-01-15 17:06:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 17:07:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 17:14:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 17:16:43 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-15 21:44:34 [INFO] flametofire[/10.253.178.14:56057] logged in with entity id 5313160 at (196.72861875025967, 123.0, -246.41999671713916)
+2013-01-15 21:44:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 21:45:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-15 21:46:19 [INFO] [flametofire: Set the time to 0]
+2013-01-15 21:53:22 [INFO] flametofire lost connection: disconnect.quitting
+2013-01-16 01:30:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 01:51:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 05:03:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 05:04:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 05:05:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 05:09:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 05:12:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 05:13:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 05:29:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 05:39:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 07:29:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 11:44:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 11:55:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 12:45:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 13:40:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-16 17:16:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
